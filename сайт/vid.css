@@ -1,0 +1,39 @@
+html{
+background-color: rgb;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-style: italic;
+}
+body{
+
+}
+img{
+float: right;
+border-radius: 54% 46% 47% 53% / 24% 55% 45% 76%;;
+}
+h1{
+text-align: left;	
+word-wrap: break-word;
+padding: 80px 25px 15px 20px;
+font-size: 40px;
+color: #8B0000;
+}
+p{
+text-align: left;	
+word-wrap: break-word;
+padding: 0px 25px 15px 20px;
+font-size: 35px;
+color: white;
+text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white, 0 0 20px crimson, 0 0 35px crimson, 0 0 40px crimson, 0 0 50px crimson, 0 0 75px crimson;
+background: linear-gradient(-45deg, #FEE864, #F5965E);
+}
+.footer{
+background: #BC8F8F;
+width: 100%;
+color: black;
+padding: 20px;
+box-sizing: border-box; 
+text-align: right;
+font-size: 20px;
+margin-top: 0;
+}
+
